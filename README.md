@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-This is lushevol, an engineer working in front-end field, and have a lot to do. you can find me at [HomePage](https://lushevol.space).
+This is lushevol
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Front-End field
 - 🌱 I’m currently learning JAVA and Golang
 - 💬 Ask me about [Anything](https://github.com/lushevol/lushevol/issues)
+- 🏠 You can find me at [HomePage](https://lushevol.space)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
