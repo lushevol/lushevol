@@ -2,8 +2,8 @@
 
 This is lushevol
 
-- 🔭 I’m currently working on Front-End field
-- 🌱 I’m currently learning JAVA and Golang
+- 🔭 I’m currently working on Front-End in SCB.
+- 🌱 I’m currently learning JAVA and Golang.
 - 💬 Ask me about [Anything](https://github.com/lushevol/lushevol/issues)
 - 🏠 You can find me at [HomePage](https://lushevol.space)
 <!--
